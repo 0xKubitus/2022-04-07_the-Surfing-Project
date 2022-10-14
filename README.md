@@ -5,31 +5,27 @@
 ### April 7th 2022
 
 # The Surfing Project
-## Introduction:
+my very 1st project after just 3days of training! :)
+  
+### The aim of this project was to practice HTML and Bootstrap for quick creation of a responsive landing page, and learn how to make repos/commits/pushes on Github.
 
-The aim of this project was to practice HTML and Bootstrap for quick creation of a responsive landing page.
-
-<br/>
-
-## Technologies:
-
-  ![HTML](https://skillicons.dev/icons?i=html)
-  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-  ![CSS](https://skillicons.dev/icons?i=css)
-  ![Github](https://skillicons.dev/icons?i=github)
+![HTML](https://skillicons.dev/icons?i=html)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![CSS](https://skillicons.dev/icons?i=css)
+![Github](https://skillicons.dev/icons?i=github)
 
 </div>
+
 
 <br/>
 <hr/>
 <br/>
 
 
-
-
-
 ## How to use this repo:
-Simply clone this repo on your machine, then open `index.html` file in your browser.
+Simply clone this repo on your machine, 
+
+then open `index.html` file in your browser.
 
 <br/>
 <hr/>
@@ -41,11 +37,11 @@ Simply clone this repo on your machine, then open `index.html` file in your brow
 
 <details>
 <summary>
-<a href="https://www.thehackingproject.org/">THE HACKING PROJECT</a> [![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
-)](https://www.thehackingproject.org/) INSTRUCTIONS:
+CLICK HERE TO READ FULL INSTRUCTIONS FROM <a href="https://www.thehackingproject.org/">THE HACKING PROJECT</a>:
 </summary>
 <br>
 
+### Day3 - The Surfing Project:
 
 This project will make you practice Bootstrap, discover the power of responsive, and prepare you for tomorrow and the notions of Landing Pages and Bootstrap themes.
 
