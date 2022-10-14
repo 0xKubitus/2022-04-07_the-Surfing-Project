@@ -1,7 +1,0 @@
-.card-img-top {
-  display: flex;
-  max-width: 95%;
-  max-height: 400px;
-  min-height: 150px;
-  object-fit: cover;
-}
