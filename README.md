@@ -9,8 +9,8 @@ my very 1st project after just 3days of training! :)
 ### The aim of this project was to practice HTML and Bootstrap for quick creation of a responsive landing page, and learn how to make repos/commits/pushes on Github.
 
 ![HTML](https://skillicons.dev/icons?i=html)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Github](https://skillicons.dev/icons?i=github)
 
 </div>
