@@ -2,7 +2,6 @@
 
 [![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
 )](https://www.thehackingproject.org/)
-### April 7th 2022
 
 # The Surfing Project
 my very 1st project after just 3days of training! :)
